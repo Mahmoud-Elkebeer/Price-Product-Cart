@@ -2,7 +2,7 @@
 
 Clone Repository
 
-`git clone git@github.com:Mahmoud-Elkebeer/Multi-Providers.git`
+`git clone git@github.com:Mahmoud-Elkebeer/Price-Product-Cart.git`
 
 Move to the newly created directory
 
